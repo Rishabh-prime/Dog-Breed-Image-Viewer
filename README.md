@@ -24,12 +24,6 @@ This project is a responsive website that allows users to search for images of d
 - A web browser
 - Internet connection
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/dog-breed-image-search.git
 
 
 ### Notes:
