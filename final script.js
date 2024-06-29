@@ -1,7 +1,7 @@
 const nameofdog = document.getElementById("name");
         const search = document.getElementById("search");
         const search1 = document.getElementById("search1");
-        const iamgeconatiner = document.getElementById("iamgeconatiner");
+        const iamgeconatiner = document.getElementById("imagecontainer");
 
         async function getDogImages(dogname, count = 1) {
             const response = await fetch(`https://dog.ceo/api/breed/${dogname}/images/random/${count}`);
